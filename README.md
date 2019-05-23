@@ -22,7 +22,7 @@ Estimative budget: Free
 
 Proposed partners: Nobody
 
-Git repository link: https://github.com/Jumapulya/JavaFinal/tree/master/MyFirstApp
+Git repository link: https://github.com/Jumapulya/JavaFinal.git
 
 Contact person:
 Name     : Zhumabek
